@@ -1566,14 +1566,125 @@ int main(){
 }
  */
 
+/**
+ * 第69题
+ * @param n
+ * @return
+
+//根据“水仙花数”的定义，判断一个数是否为“水仙花数”，
+// 最重要的是要把给出的三位数的个位、十位、百位分别拆分，
+// 并求其立方和，若立方和与给出的三位数相等， 三位数为“水仙花数”，反之，则不是。
+int isDaffodil(int n){
+    int a = n / 100;
+    int b = (n / 10) % 10;
+    int c = n % 10;
+    if(a*a*a + b*b*b + c*c*c == n){
+        return 1;
+    }else{
+        return 0;
+    }
+}
+
+int main(){
+    int i;
+    for(i = 100; i < 1000; i++){
+        if(isDaffodil(i)){
+            printf("%d\n",i);
+        }
+    }
+}
+**/
 
 
 
+/**
+ * 第70题
+ * @param n
+ * @param x
+ * @return
 
+float p(int n,float x){
+    if(n == 0){
+        return 1;
+    }
+    if(n == 1){
+        return x;
+    }
+    if(n > 1){
+        return (2*n - 1)*x*p(n - 1,x) - (n - 1)*p(n - 2,x) / n;
+    }
+}
 
+int main(){
+    float x;
+    int n;
+    printf("请输入x的值\n");
+    scanf("%f",&x);
+    printf("请输入n的值\n");
+    scanf("%d",&n);
+    printf("p(n,x) = %f",p(n,x));
+}
+ */
 
+/**
+ * 第71题
+ * @param a
+void sort(int a[10]){
+    for(int i = 0; i < 10; i++){
+        for(int j = i; j < 10; j++){
+            if(a[i] < a[j]){
+                int temp = a[i];
+                a[i] = a[j];
+                a[j] = temp;
+            }
+        }
+    }
+}
 
+int main(){
+    int a[10];
+    printf("请输入十个数\n");
+    for(int i = 0; i < 10; i++){
+        printf("第%d个数=",i + 1);
+        scanf("%d",&a[i]);
+    }
+    sort(a);
+    for(int i = 0; i < 10; i++){
+        printf("%3d",a[i]);
+    }
+}
+*/
 
+/**
+ * 第72题
+ * @return
+
+int main(){
+   int n;
+   char name[100][100],*p[100],*temp;
+    printf("请输入有几位室友\n");
+    scanf("%d",&n);
+    for(int i = 0; i < n; i++){
+        printf("请输入第%d位室友的姓名\n",i + 1);
+        scanf("%s",name[i]);
+        p[i] = name[i];
+    }
+    for(int i = 0; i < n; i++){
+        for(int j = i; j < n; j++){
+            if(strcmp(name[i],name[j]) < 0){
+                temp = p[i];
+                p[i] = p[j];
+                p[j] = temp;
+            }
+        }
+    }
+
+    printf("排序后\n");
+    for(int i = 0; i < n; i++){
+        printf("%s\n",p[i]);
+    }
+}
+*/
 
 
 
