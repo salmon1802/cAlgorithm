@@ -1687,7 +1687,148 @@ int main(){
 */
 
 
+/**
+ * 第73题
+ * @param n
+ * @param m
+
+//地址传递方式
+void fun1(int *n,int *m){
+    int temp;
+    temp = *n;
+    *n = *m;
+    *m = temp;
+}
+
+//全局变量的方式
+int x,y;
+void fun2(){
+    int temp = x;
+    x = y;
+    y = temp;
+}
+
+
+int main(){
+    int n,m;
+    printf("输入n,m\n");
+    scanf("%d,%d",&n,&m);
+    fun1(&n,&m);
+    printf("第一次交换后的n = %d,m = %d\n",n,m);
+
+    printf("输入x,y\n");
+    scanf("%d,%d",&x,&y);
+    fun2();
+    printf("第二次交换后的x = %d,y = %d",x,y);
+
+}
+ */
+
+/**
+ * 第74题
+ * @param c
+ * @return
+
+int findMax(int c[]){
+    int min;
+    if(sizeof(c) / sizeof(c[0]) > 0){
+        min = c[0];
+    }else{
+        return -1;
+    }
+    for(int i = 0; i < sizeof(c) / sizeof(c[0]); i++){
+        if(c[i] < min){
+            min = c[i];
+        }
+    }
+    return min;
+}
+
+int main(){
+    int M,N;
+    printf("请输入矩阵的行与列大小\n");
+    scanf("%d %d",&M,&N);
+    int a[M][N],c[M]; //如果把这一行放到M,N定义那一行的地方会使a的大小永远为0，因为它是直接初始化而且M,N改变后a不随其改变
+                        //wssb
+    for(int i = 0; i < M; i++) {
+        for (int j = 0; j < N; j++) {
+            printf("a[%d][%d]=",i + 1,j + 1);
+            scanf("%d",&a[i][j]);
+        }
+    }
+
+
+    for(int i = 0; i < M; i++) {
+        for (int j = 0; j < N; j++) {
+            printf("%3d",a[i][j]);
+        }
+        printf("\n");
+    }
+
+
+    for(int j = 0; j < N; j++){
+        for (int i = 0; i < M; i++) {
+            c[i] = a[i][j];
+        }
+        printf("第%d列的最小值为:%d\n",j + 1,findMax(c));
+    }
+}
+
+ */
 
 
 
 
+//第75题伞兵题
+
+
+
+/**
+ * 第76题
+ * @param n
+ * @return
+
+int Fibonacci(int n){
+    if(n < 1){
+        return 0;
+    }else if (n == 1 || n == 2){
+        return 1;
+    }else if(n > 2){
+        return Fibonacci(n - 1) + Fibonacci(n - 2);
+    }
+}
+
+int main(){
+    int n;
+    printf("需要前多少项的斐波那契数列\n");
+    scanf("%d",&n);
+    for(int i = 1; i <= n; i++){
+        printf("%d\n",Fibonacci(i));
+    }
+}
+ */
+
+
+/**
+ * 第77题
+ * @param n
+ * @return
+
+int sum(int n){
+    int sum = 0;
+    for(int i = 1; i <= n; i++){
+        sum = sum + i;
+    }
+    return sum;
+}
+
+
+int main(){
+    int n;
+    scanf("%d",&n);
+    printf("%d", sum(n));
+}
+**/
+
+
+//最后两道I/O题不写了，如果考试有的话我愿称之为脑瘫出题人
