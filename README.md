@@ -6,3 +6,5 @@ c语言实现的程序设计/简单算法题
 https://pintia.cn/problem-sets/15/problems/type/6
           
 https://leetcode-cn.com/problemset/all/
+
+https://blog.csdn.net/Salmon1122/article/details/120297913
