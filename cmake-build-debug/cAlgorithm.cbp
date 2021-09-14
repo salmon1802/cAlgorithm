@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cAlgorithm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/code/cAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cAlgorithm">
+				<Option output="D:/code/cAlgorithm/cmake-build-debug/cAlgorithm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/code/cAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\code\clion 2021.2\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="d:\code\clion 2021.2\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="d:\code\clion 2021.2\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 cAlgorithm"/>
+					<CompileFile command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cAlgorithm/fast">
+				<Option output="D:/code/cAlgorithm/cmake-build-debug/cAlgorithm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/code/cAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\code\clion 2021.2\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="d:\code\clion 2021.2\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="d:\code\clion 2021.2\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 cAlgorithm/fast"/>
+					<CompileFile command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/code/cAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/code/cAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/code/CLION2~1.2/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/code/cAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/Reverse.cpp">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/containsDuplicate.c">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/hasCycle.cpp">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/maxSubArray.c">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/merge.cpp">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/mergeTwoLists.cpp">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/removeNthFromEnd.cpp">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/twoSum.cpp">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/main.c">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

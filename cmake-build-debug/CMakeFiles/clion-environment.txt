@@ -1,0 +1,4 @@
+ToolSet: w64 7.0 (local)@D:\code\CLion 2021.2\MinGW\MinGW
+Options: 
+
+Options:

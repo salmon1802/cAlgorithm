@@ -1,0 +1,3 @@
+"D:\code\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cAlgorithm.dir/objects.a
+D:\code\CLION2~1.2\MinGW\MinGW\bin\ar.exe cr CMakeFiles\cAlgorithm.dir/objects.a @CMakeFiles\cAlgorithm.dir\objects1.rsp
+D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\cAlgorithm.dir/objects.a -Wl,--no-whole-archive -o cAlgorithm.exe -Wl,--out-implib,libcAlgorithm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cAlgorithm.dir\linklibs.rsp
