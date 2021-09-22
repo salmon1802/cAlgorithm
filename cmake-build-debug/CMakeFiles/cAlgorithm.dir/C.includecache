@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/code/cAlgorithm/leetcode_datastruct/maxSubArray.c
-math.h
+D:/code/cAlgorithm/PAT_datastruct/operationSetOfLinkWithHead.c
+stdio.h
+-
+stdlib.h
 -
 

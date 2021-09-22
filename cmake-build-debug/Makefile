@@ -128,6 +128,198 @@ cAlgorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/build
 .PHONY : cAlgorithm/fast
 
+PAT_datastruct/binarySearch.obj: PAT_datastruct/binarySearch.c.obj
+.PHONY : PAT_datastruct/binarySearch.obj
+
+# target to build an object file
+PAT_datastruct/binarySearch.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/binarySearch.c.obj
+.PHONY : PAT_datastruct/binarySearch.c.obj
+
+PAT_datastruct/binarySearch.i: PAT_datastruct/binarySearch.c.i
+.PHONY : PAT_datastruct/binarySearch.i
+
+# target to preprocess a source file
+PAT_datastruct/binarySearch.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/binarySearch.c.i
+.PHONY : PAT_datastruct/binarySearch.c.i
+
+PAT_datastruct/binarySearch.s: PAT_datastruct/binarySearch.c.s
+.PHONY : PAT_datastruct/binarySearch.s
+
+# target to generate assembly for a file
+PAT_datastruct/binarySearch.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/binarySearch.c.s
+.PHONY : PAT_datastruct/binarySearch.c.s
+
+PAT_datastruct/heightOfBinaryTree.obj: PAT_datastruct/heightOfBinaryTree.c.obj
+.PHONY : PAT_datastruct/heightOfBinaryTree.obj
+
+# target to build an object file
+PAT_datastruct/heightOfBinaryTree.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/heightOfBinaryTree.c.obj
+.PHONY : PAT_datastruct/heightOfBinaryTree.c.obj
+
+PAT_datastruct/heightOfBinaryTree.i: PAT_datastruct/heightOfBinaryTree.c.i
+.PHONY : PAT_datastruct/heightOfBinaryTree.i
+
+# target to preprocess a source file
+PAT_datastruct/heightOfBinaryTree.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/heightOfBinaryTree.c.i
+.PHONY : PAT_datastruct/heightOfBinaryTree.c.i
+
+PAT_datastruct/heightOfBinaryTree.s: PAT_datastruct/heightOfBinaryTree.c.s
+.PHONY : PAT_datastruct/heightOfBinaryTree.s
+
+# target to generate assembly for a file
+PAT_datastruct/heightOfBinaryTree.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/heightOfBinaryTree.c.s
+.PHONY : PAT_datastruct/heightOfBinaryTree.c.s
+
+PAT_datastruct/implementTwoStacks.obj: PAT_datastruct/implementTwoStacks.c.obj
+.PHONY : PAT_datastruct/implementTwoStacks.obj
+
+# target to build an object file
+PAT_datastruct/implementTwoStacks.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/implementTwoStacks.c.obj
+.PHONY : PAT_datastruct/implementTwoStacks.c.obj
+
+PAT_datastruct/implementTwoStacks.i: PAT_datastruct/implementTwoStacks.c.i
+.PHONY : PAT_datastruct/implementTwoStacks.i
+
+# target to preprocess a source file
+PAT_datastruct/implementTwoStacks.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/implementTwoStacks.c.i
+.PHONY : PAT_datastruct/implementTwoStacks.c.i
+
+PAT_datastruct/implementTwoStacks.s: PAT_datastruct/implementTwoStacks.c.s
+.PHONY : PAT_datastruct/implementTwoStacks.s
+
+# target to generate assembly for a file
+PAT_datastruct/implementTwoStacks.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/implementTwoStacks.c.s
+.PHONY : PAT_datastruct/implementTwoStacks.c.s
+
+PAT_datastruct/lengthOfLinkedList_.obj: PAT_datastruct/lengthOfLinkedList_.c.obj
+.PHONY : PAT_datastruct/lengthOfLinkedList_.obj
+
+# target to build an object file
+PAT_datastruct/lengthOfLinkedList_.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/lengthOfLinkedList_.c.obj
+.PHONY : PAT_datastruct/lengthOfLinkedList_.c.obj
+
+PAT_datastruct/lengthOfLinkedList_.i: PAT_datastruct/lengthOfLinkedList_.c.i
+.PHONY : PAT_datastruct/lengthOfLinkedList_.i
+
+# target to preprocess a source file
+PAT_datastruct/lengthOfLinkedList_.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/lengthOfLinkedList_.c.i
+.PHONY : PAT_datastruct/lengthOfLinkedList_.c.i
+
+PAT_datastruct/lengthOfLinkedList_.s: PAT_datastruct/lengthOfLinkedList_.c.s
+.PHONY : PAT_datastruct/lengthOfLinkedList_.s
+
+# target to generate assembly for a file
+PAT_datastruct/lengthOfLinkedList_.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/lengthOfLinkedList_.c.s
+.PHONY : PAT_datastruct/lengthOfLinkedList_.c.s
+
+PAT_datastruct/operationSetOfLink.obj: PAT_datastruct/operationSetOfLink.c.obj
+.PHONY : PAT_datastruct/operationSetOfLink.obj
+
+# target to build an object file
+PAT_datastruct/operationSetOfLink.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.obj
+.PHONY : PAT_datastruct/operationSetOfLink.c.obj
+
+PAT_datastruct/operationSetOfLink.i: PAT_datastruct/operationSetOfLink.c.i
+.PHONY : PAT_datastruct/operationSetOfLink.i
+
+# target to preprocess a source file
+PAT_datastruct/operationSetOfLink.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.i
+.PHONY : PAT_datastruct/operationSetOfLink.c.i
+
+PAT_datastruct/operationSetOfLink.s: PAT_datastruct/operationSetOfLink.c.s
+.PHONY : PAT_datastruct/operationSetOfLink.s
+
+# target to generate assembly for a file
+PAT_datastruct/operationSetOfLink.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.s
+.PHONY : PAT_datastruct/operationSetOfLink.c.s
+
+PAT_datastruct/operationSetOfLinkWithHead.obj: PAT_datastruct/operationSetOfLinkWithHead.c.obj
+.PHONY : PAT_datastruct/operationSetOfLinkWithHead.obj
+
+# target to build an object file
+PAT_datastruct/operationSetOfLinkWithHead.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.obj
+.PHONY : PAT_datastruct/operationSetOfLinkWithHead.c.obj
+
+PAT_datastruct/operationSetOfLinkWithHead.i: PAT_datastruct/operationSetOfLinkWithHead.c.i
+.PHONY : PAT_datastruct/operationSetOfLinkWithHead.i
+
+# target to preprocess a source file
+PAT_datastruct/operationSetOfLinkWithHead.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.i
+.PHONY : PAT_datastruct/operationSetOfLinkWithHead.c.i
+
+PAT_datastruct/operationSetOfLinkWithHead.s: PAT_datastruct/operationSetOfLinkWithHead.c.s
+.PHONY : PAT_datastruct/operationSetOfLinkWithHead.s
+
+# target to generate assembly for a file
+PAT_datastruct/operationSetOfLinkWithHead.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.s
+.PHONY : PAT_datastruct/operationSetOfLinkWithHead.c.s
+
+PAT_datastruct/operationSetOfSeq_.obj: PAT_datastruct/operationSetOfSeq_.c.obj
+.PHONY : PAT_datastruct/operationSetOfSeq_.obj
+
+# target to build an object file
+PAT_datastruct/operationSetOfSeq_.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.obj
+.PHONY : PAT_datastruct/operationSetOfSeq_.c.obj
+
+PAT_datastruct/operationSetOfSeq_.i: PAT_datastruct/operationSetOfSeq_.c.i
+.PHONY : PAT_datastruct/operationSetOfSeq_.i
+
+# target to preprocess a source file
+PAT_datastruct/operationSetOfSeq_.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.i
+.PHONY : PAT_datastruct/operationSetOfSeq_.c.i
+
+PAT_datastruct/operationSetOfSeq_.s: PAT_datastruct/operationSetOfSeq_.c.s
+.PHONY : PAT_datastruct/operationSetOfSeq_.s
+
+# target to generate assembly for a file
+PAT_datastruct/operationSetOfSeq_.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.s
+.PHONY : PAT_datastruct/operationSetOfSeq_.c.s
+
+PAT_datastruct/traversalBinaryTree.obj: PAT_datastruct/traversalBinaryTree.c.obj
+.PHONY : PAT_datastruct/traversalBinaryTree.obj
+
+# target to build an object file
+PAT_datastruct/traversalBinaryTree.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.obj
+.PHONY : PAT_datastruct/traversalBinaryTree.c.obj
+
+PAT_datastruct/traversalBinaryTree.i: PAT_datastruct/traversalBinaryTree.c.i
+.PHONY : PAT_datastruct/traversalBinaryTree.i
+
+# target to preprocess a source file
+PAT_datastruct/traversalBinaryTree.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.i
+.PHONY : PAT_datastruct/traversalBinaryTree.c.i
+
+PAT_datastruct/traversalBinaryTree.s: PAT_datastruct/traversalBinaryTree.c.s
+.PHONY : PAT_datastruct/traversalBinaryTree.s
+
+# target to generate assembly for a file
+PAT_datastruct/traversalBinaryTree.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.s
+.PHONY : PAT_datastruct/traversalBinaryTree.c.s
+
 leetcode_datastruct/containsDuplicate.obj: leetcode_datastruct/containsDuplicate.c.obj
 .PHONY : leetcode_datastruct/containsDuplicate.obj
 
@@ -152,6 +344,30 @@ leetcode_datastruct/containsDuplicate.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/leetcode_datastruct/containsDuplicate.c.s
 .PHONY : leetcode_datastruct/containsDuplicate.c.s
 
+leetcode_datastruct/deleteDuplicates.obj: leetcode_datastruct/deleteDuplicates.c.obj
+.PHONY : leetcode_datastruct/deleteDuplicates.obj
+
+# target to build an object file
+leetcode_datastruct/deleteDuplicates.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.obj
+.PHONY : leetcode_datastruct/deleteDuplicates.c.obj
+
+leetcode_datastruct/deleteDuplicates.i: leetcode_datastruct/deleteDuplicates.c.i
+.PHONY : leetcode_datastruct/deleteDuplicates.i
+
+# target to preprocess a source file
+leetcode_datastruct/deleteDuplicates.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.i
+.PHONY : leetcode_datastruct/deleteDuplicates.c.i
+
+leetcode_datastruct/deleteDuplicates.s: leetcode_datastruct/deleteDuplicates.c.s
+.PHONY : leetcode_datastruct/deleteDuplicates.s
+
+# target to generate assembly for a file
+leetcode_datastruct/deleteDuplicates.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.s
+.PHONY : leetcode_datastruct/deleteDuplicates.c.s
+
 leetcode_datastruct/maxSubArray.obj: leetcode_datastruct/maxSubArray.c.obj
 .PHONY : leetcode_datastruct/maxSubArray.obj
 
@@ -175,6 +391,30 @@ leetcode_datastruct/maxSubArray.s: leetcode_datastruct/maxSubArray.c.s
 leetcode_datastruct/maxSubArray.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/leetcode_datastruct/maxSubArray.c.s
 .PHONY : leetcode_datastruct/maxSubArray.c.s
+
+leetcode_datastruct/removeElements.obj: leetcode_datastruct/removeElements.c.obj
+.PHONY : leetcode_datastruct/removeElements.obj
+
+# target to build an object file
+leetcode_datastruct/removeElements.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/leetcode_datastruct/removeElements.c.obj
+.PHONY : leetcode_datastruct/removeElements.c.obj
+
+leetcode_datastruct/removeElements.i: leetcode_datastruct/removeElements.c.i
+.PHONY : leetcode_datastruct/removeElements.i
+
+# target to preprocess a source file
+leetcode_datastruct/removeElements.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/leetcode_datastruct/removeElements.c.i
+.PHONY : leetcode_datastruct/removeElements.c.i
+
+leetcode_datastruct/removeElements.s: leetcode_datastruct/removeElements.c.s
+.PHONY : leetcode_datastruct/removeElements.s
+
+# target to generate assembly for a file
+leetcode_datastruct/removeElements.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/leetcode_datastruct/removeElements.c.s
+.PHONY : leetcode_datastruct/removeElements.c.s
 
 main.obj: main.c.obj
 .PHONY : main.obj
@@ -209,12 +449,42 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... cAlgorithm
+	@echo ... PAT_datastruct/binarySearch.obj
+	@echo ... PAT_datastruct/binarySearch.i
+	@echo ... PAT_datastruct/binarySearch.s
+	@echo ... PAT_datastruct/heightOfBinaryTree.obj
+	@echo ... PAT_datastruct/heightOfBinaryTree.i
+	@echo ... PAT_datastruct/heightOfBinaryTree.s
+	@echo ... PAT_datastruct/implementTwoStacks.obj
+	@echo ... PAT_datastruct/implementTwoStacks.i
+	@echo ... PAT_datastruct/implementTwoStacks.s
+	@echo ... PAT_datastruct/lengthOfLinkedList_.obj
+	@echo ... PAT_datastruct/lengthOfLinkedList_.i
+	@echo ... PAT_datastruct/lengthOfLinkedList_.s
+	@echo ... PAT_datastruct/operationSetOfLink.obj
+	@echo ... PAT_datastruct/operationSetOfLink.i
+	@echo ... PAT_datastruct/operationSetOfLink.s
+	@echo ... PAT_datastruct/operationSetOfLinkWithHead.obj
+	@echo ... PAT_datastruct/operationSetOfLinkWithHead.i
+	@echo ... PAT_datastruct/operationSetOfLinkWithHead.s
+	@echo ... PAT_datastruct/operationSetOfSeq_.obj
+	@echo ... PAT_datastruct/operationSetOfSeq_.i
+	@echo ... PAT_datastruct/operationSetOfSeq_.s
+	@echo ... PAT_datastruct/traversalBinaryTree.obj
+	@echo ... PAT_datastruct/traversalBinaryTree.i
+	@echo ... PAT_datastruct/traversalBinaryTree.s
 	@echo ... leetcode_datastruct/containsDuplicate.obj
 	@echo ... leetcode_datastruct/containsDuplicate.i
 	@echo ... leetcode_datastruct/containsDuplicate.s
+	@echo ... leetcode_datastruct/deleteDuplicates.obj
+	@echo ... leetcode_datastruct/deleteDuplicates.i
+	@echo ... leetcode_datastruct/deleteDuplicates.s
 	@echo ... leetcode_datastruct/maxSubArray.obj
 	@echo ... leetcode_datastruct/maxSubArray.i
 	@echo ... leetcode_datastruct/maxSubArray.s
+	@echo ... leetcode_datastruct/removeElements.obj
+	@echo ... leetcode_datastruct/removeElements.i
+	@echo ... leetcode_datastruct/removeElements.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -1833,45 +1833,77 @@ int main(){
 
 //最后两道I/O题不写了，如果考试有的话我愿称之为脑瘫出题人
 
-int main() {
-    char a[100] = {'\0'};
-    int sum=0,ge, shi, bai,i=0;
-    char Num[10][5] = { "ling","yi","er","san" ,"si","wu","liu","qi","ba","jiu", };
-    scanf("%s", &a);
-    while (a[i] != '\0') {
-        switch (a[i]) {
-            case '0': i++; break;
-            case '1': sum += 1; i++; break;
-            case '2': sum += 2; i++; break;
-            case '3': sum += 3; i++; break;
-            case '4': sum += 4; i++; break;
-            case '5': sum += 5; i++; break;
-            case '6': sum += 6; i++; break;
-            case '7': sum += 7; i++; break;
-            case '8': sum += 8; i++; break;
-            case '9': sum += 9; i++; break;
-        }
-    }
+//int main() {
+//    char a[100] = {'\0'};
+//    int sum=0,ge, shi, bai,i=0;
+//    char Num[10][5] = { "ling","yi","er","san" ,"si","wu","liu","qi","ba","jiu", };
+//    scanf("%s", &a);
+//    while (a[i] != '\0') {
+//        switch (a[i]) {
+//            case '0': i++; break;
+//            case '1': sum += 1; i++; break;
+//            case '2': sum += 2; i++; break;
+//            case '3': sum += 3; i++; break;
+//            case '4': sum += 4; i++; break;
+//            case '5': sum += 5; i++; break;
+//            case '6': sum += 6; i++; break;
+//            case '7': sum += 7; i++; break;
+//            case '8': sum += 8; i++; break;
+//            case '9': sum += 9; i++; break;
+//        }
+//    }
+//
+//
+//    ge = sum % 10;
+//    shi = sum % 100 / 10;
+//    bai = sum / 100;
+//
+//    if (bai == 0) {
+//        if (shi == 0) {
+//            printf("%s", Num[ge]);
+//        }
+//        else
+//        {
+//            printf("%s %s", Num[shi], Num[ge]);
+//        }
+//    }
+//    else
+//    {
+//        printf("%s %s %s", Num[bai], Num[shi], Num[ge]);
+//    }
+//
+//    return 0;
+//
+//}
 
 
-    ge = sum % 10;
-    shi = sum % 100 / 10;
-    bai = sum / 100;
-
-    if (bai == 0) {
-        if (shi == 0) {
-            printf("%s", Num[ge]);
-        }
-        else
-        {
-            printf("%s %s", Num[shi], Num[ge]);
-        }
-    }
-    else
-    {
-        printf("%s %s %s", Num[bai], Num[shi], Num[ge]);
-    }
-
-    return 0;
-
-}
+//void PostOrder( BiTree T)
+//{
+//    InitStack(S);
+//    p=T;
+//    r=NULL;
+//    while(p || !IsEmpty(S))
+//    {
+//        if (p){                                          //走到最左边
+//            push(S,p);
+//            p=p->lchild;
+//        }
+//        else
+//        {
+//            GetTop(S,p);                      //向右，取栈顶结点。
+//            if (p->rchild && p->rchild!=r)    //若右子树存在，且未被访问过
+//                {
+//                p = p->rchild;              //转向右
+//                push(S,p);                      //压栈
+//                p = p->lchild;              //再走到最左
+//                }
+//            else
+//            {                       //否则，弹出结点并访问
+//                pop(S,p);        //将结点弹出
+//                visit(p->data);        //访问该结点
+//                r = p;                   //记录最近访问过的结点
+//                p = NULL;            //结点访问完后，重置p指针
+//            }
+//        }
+//    }
+//}
