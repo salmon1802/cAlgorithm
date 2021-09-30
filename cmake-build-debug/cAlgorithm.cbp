@@ -98,6 +98,12 @@
 		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/operationSetOfSeq .c">
 			<Option target="cAlgorithm"/>
 		</Unit>
+		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/operationsSetBinarySearchTree.c">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/preorderPrintLeaves.c">
+			<Option target="cAlgorithm"/>
+		</Unit>
 		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/searchByNumberOfLinkedList.cpp">
 			<Option target="cAlgorithm"/>
 		</Unit>
@@ -129,6 +135,9 @@
 			<Option target="cAlgorithm"/>
 		</Unit>
 		<Unit filename="D:/code/cAlgorithm/main.c">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/scattered/nodeOfBinaryTree.cpp">
 			<Option target="cAlgorithm"/>
 		</Unit>
 		<Unit filename="D:/code/cAlgorithm/CMakeLists.txt">

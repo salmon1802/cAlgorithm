@@ -6,6 +6,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.obj"
   "CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.obj"
   "CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.obj"
+  "CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.obj"
+  "CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.obj"
   "CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.obj"
   "CMakeFiles/cAlgorithm.dir/leetcode_datastruct/containsDuplicate.c.obj"
   "CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.obj"

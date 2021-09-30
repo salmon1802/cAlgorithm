@@ -296,6 +296,54 @@ PAT_datastruct/operationSetOfSeq_.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.s
 .PHONY : PAT_datastruct/operationSetOfSeq_.c.s
 
+PAT_datastruct/operationsSetBinarySearchTree.obj: PAT_datastruct/operationsSetBinarySearchTree.c.obj
+.PHONY : PAT_datastruct/operationsSetBinarySearchTree.obj
+
+# target to build an object file
+PAT_datastruct/operationsSetBinarySearchTree.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.obj
+.PHONY : PAT_datastruct/operationsSetBinarySearchTree.c.obj
+
+PAT_datastruct/operationsSetBinarySearchTree.i: PAT_datastruct/operationsSetBinarySearchTree.c.i
+.PHONY : PAT_datastruct/operationsSetBinarySearchTree.i
+
+# target to preprocess a source file
+PAT_datastruct/operationsSetBinarySearchTree.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.i
+.PHONY : PAT_datastruct/operationsSetBinarySearchTree.c.i
+
+PAT_datastruct/operationsSetBinarySearchTree.s: PAT_datastruct/operationsSetBinarySearchTree.c.s
+.PHONY : PAT_datastruct/operationsSetBinarySearchTree.s
+
+# target to generate assembly for a file
+PAT_datastruct/operationsSetBinarySearchTree.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.s
+.PHONY : PAT_datastruct/operationsSetBinarySearchTree.c.s
+
+PAT_datastruct/preorderPrintLeaves.obj: PAT_datastruct/preorderPrintLeaves.c.obj
+.PHONY : PAT_datastruct/preorderPrintLeaves.obj
+
+# target to build an object file
+PAT_datastruct/preorderPrintLeaves.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.obj
+.PHONY : PAT_datastruct/preorderPrintLeaves.c.obj
+
+PAT_datastruct/preorderPrintLeaves.i: PAT_datastruct/preorderPrintLeaves.c.i
+.PHONY : PAT_datastruct/preorderPrintLeaves.i
+
+# target to preprocess a source file
+PAT_datastruct/preorderPrintLeaves.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.i
+.PHONY : PAT_datastruct/preorderPrintLeaves.c.i
+
+PAT_datastruct/preorderPrintLeaves.s: PAT_datastruct/preorderPrintLeaves.c.s
+.PHONY : PAT_datastruct/preorderPrintLeaves.s
+
+# target to generate assembly for a file
+PAT_datastruct/preorderPrintLeaves.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.s
+.PHONY : PAT_datastruct/preorderPrintLeaves.c.s
+
 PAT_datastruct/traversalBinaryTree.obj: PAT_datastruct/traversalBinaryTree.c.obj
 .PHONY : PAT_datastruct/traversalBinaryTree.obj
 
@@ -470,6 +518,12 @@ help:
 	@echo ... PAT_datastruct/operationSetOfSeq_.obj
 	@echo ... PAT_datastruct/operationSetOfSeq_.i
 	@echo ... PAT_datastruct/operationSetOfSeq_.s
+	@echo ... PAT_datastruct/operationsSetBinarySearchTree.obj
+	@echo ... PAT_datastruct/operationsSetBinarySearchTree.i
+	@echo ... PAT_datastruct/operationsSetBinarySearchTree.s
+	@echo ... PAT_datastruct/preorderPrintLeaves.obj
+	@echo ... PAT_datastruct/preorderPrintLeaves.i
+	@echo ... PAT_datastruct/preorderPrintLeaves.s
 	@echo ... PAT_datastruct/traversalBinaryTree.obj
 	@echo ... PAT_datastruct/traversalBinaryTree.i
 	@echo ... PAT_datastruct/traversalBinaryTree.s

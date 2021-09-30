@@ -80,12 +80,12 @@ clean: CMakeFiles/cAlgorithm.dir/clean
 CMakeFiles/cAlgorithm.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14 "Built target cAlgorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16 "Built target cAlgorithm"
 .PHONY : CMakeFiles/cAlgorithm.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/cAlgorithm.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\cAlgorithm\cmake-build-debug\CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\cAlgorithm\cmake-build-debug\CMakeFiles 16
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/cAlgorithm.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\cAlgorithm\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/cAlgorithm.dir/rule

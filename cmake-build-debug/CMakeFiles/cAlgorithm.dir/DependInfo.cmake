@@ -15,6 +15,8 @@ set(CMAKE_DEPENDS_CHECK_C
   "D:/code/cAlgorithm/PAT_datastruct/operationSetOfLink.c" "D:/code/cAlgorithm/cmake-build-debug/CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.obj"
   "D:/code/cAlgorithm/PAT_datastruct/operationSetOfLinkWithHead.c" "D:/code/cAlgorithm/cmake-build-debug/CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.obj"
   "D:/code/cAlgorithm/PAT_datastruct/operationSetOfSeq .c" "D:/code/cAlgorithm/cmake-build-debug/CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.obj"
+  "D:/code/cAlgorithm/PAT_datastruct/operationsSetBinarySearchTree.c" "D:/code/cAlgorithm/cmake-build-debug/CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.obj"
+  "D:/code/cAlgorithm/PAT_datastruct/preorderPrintLeaves.c" "D:/code/cAlgorithm/cmake-build-debug/CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.obj"
   "D:/code/cAlgorithm/PAT_datastruct/traversalBinaryTree.c" "D:/code/cAlgorithm/cmake-build-debug/CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.obj"
   "D:/code/cAlgorithm/leetcode_datastruct/containsDuplicate.c" "D:/code/cAlgorithm/cmake-build-debug/CMakeFiles/cAlgorithm.dir/leetcode_datastruct/containsDuplicate.c.obj"
   "D:/code/cAlgorithm/leetcode_datastruct/deleteDuplicates.c" "D:/code/cAlgorithm/cmake-build-debug/CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.obj"
