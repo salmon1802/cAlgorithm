@@ -74,70 +74,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/Reverse.cpp">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/binarySearch.c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/heightOfBinaryTree.c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/implementTwoStacks.c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/lengthOfLinkedList .c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/operationSetOfLink.c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/operationSetOfLinkWithHead.c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/operationSetOfSeq .c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/operationsSetBinarySearchTree.c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/preorderPrintLeaves.c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/searchByNumberOfLinkedList.cpp">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/PAT_datastruct/traversalBinaryTree.c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/containsDuplicate.c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/deleteDuplicates.c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/hasCycle.cpp">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/maxSubArray.c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/merge.cpp">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/mergeTwoLists.cpp">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/removeElements.c">
-			<Option target="cAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/twoSum.cpp">
-			<Option target="cAlgorithm"/>
-		</Unit>
 		<Unit filename="D:/code/cAlgorithm/main.c">
 			<Option target="cAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/code/cAlgorithm/scattered/nodeOfBinaryTree.cpp">
+		<Unit filename="D:/code/cAlgorithm/wangDao/Height.c">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/wangDao/leaves.c">
+			<Option target="cAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/code/cAlgorithm/wangDao/shellSort.c">
 			<Option target="cAlgorithm"/>
 		</Unit>
 		<Unit filename="D:/code/cAlgorithm/CMakeLists.txt">

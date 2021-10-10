@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/code/cAlgorithm/leetcode_datastruct/containsDuplicate.c
-
-D:/code/cAlgorithm/leetcode_datastruct/deleteDuplicates.c
-
-D:/code/cAlgorithm/leetcode_datastruct/maxSubArray.c
-
-D:/code/cAlgorithm/leetcode_datastruct/removeElements.c
+D:/code/cAlgorithm/wangDao/shellSort.c
+stdio.h
+-
 

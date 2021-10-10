@@ -78,229 +78,64 @@ CMakeFiles/cAlgorithm.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/main.c.s"
 	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\main.c -o CMakeFiles\cAlgorithm.dir\main.c.s
 
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/containsDuplicate.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/containsDuplicate.c.obj: ../leetcode_datastruct/containsDuplicate.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/cAlgorithm.dir/leetcode_datastruct/containsDuplicate.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\leetcode_datastruct\containsDuplicate.c.obj -c D:\code\cAlgorithm\leetcode_datastruct\containsDuplicate.c
+CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
+CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.obj: ../wangDao/shellSort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.obj"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\wangDao\shellSort.c.obj -c D:\code\cAlgorithm\wangDao\shellSort.c
 
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/containsDuplicate.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/leetcode_datastruct/containsDuplicate.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\leetcode_datastruct\containsDuplicate.c > CMakeFiles\cAlgorithm.dir\leetcode_datastruct\containsDuplicate.c.i
+CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.i"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\wangDao\shellSort.c > CMakeFiles\cAlgorithm.dir\wangDao\shellSort.c.i
 
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/containsDuplicate.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/leetcode_datastruct/containsDuplicate.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\leetcode_datastruct\containsDuplicate.c -o CMakeFiles\cAlgorithm.dir\leetcode_datastruct\containsDuplicate.c.s
+CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.s"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\wangDao\shellSort.c -o CMakeFiles\cAlgorithm.dir\wangDao\shellSort.c.s
 
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/maxSubArray.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/maxSubArray.c.obj: ../leetcode_datastruct/maxSubArray.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/cAlgorithm.dir/leetcode_datastruct/maxSubArray.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\leetcode_datastruct\maxSubArray.c.obj -c D:\code\cAlgorithm\leetcode_datastruct\maxSubArray.c
+CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
+CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.obj: ../wangDao/leaves.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.obj"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\wangDao\leaves.c.obj -c D:\code\cAlgorithm\wangDao\leaves.c
 
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/maxSubArray.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/leetcode_datastruct/maxSubArray.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\leetcode_datastruct\maxSubArray.c > CMakeFiles\cAlgorithm.dir\leetcode_datastruct\maxSubArray.c.i
+CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.i"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\wangDao\leaves.c > CMakeFiles\cAlgorithm.dir\wangDao\leaves.c.i
 
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/maxSubArray.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/leetcode_datastruct/maxSubArray.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\leetcode_datastruct\maxSubArray.c -o CMakeFiles\cAlgorithm.dir\leetcode_datastruct\maxSubArray.c.s
+CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.s"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\wangDao\leaves.c -o CMakeFiles\cAlgorithm.dir\wangDao\leaves.c.s
 
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.obj: ../PAT_datastruct/operationSetOfSeq\ .c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\operationSetOfSeq_.c.obj -c "D:\code\cAlgorithm\PAT_datastruct\operationSetOfSeq .c"
+CMakeFiles/cAlgorithm.dir/wangDao/Height.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
+CMakeFiles/cAlgorithm.dir/wangDao/Height.c.obj: ../wangDao/Height.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/cAlgorithm.dir/wangDao/Height.c.obj"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\wangDao\Height.c.obj -c D:\code\cAlgorithm\wangDao\Height.c
 
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\code\cAlgorithm\PAT_datastruct\operationSetOfSeq .c" > CMakeFiles\cAlgorithm.dir\PAT_datastruct\operationSetOfSeq_.c.i
+CMakeFiles/cAlgorithm.dir/wangDao/Height.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/wangDao/Height.c.i"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\wangDao\Height.c > CMakeFiles\cAlgorithm.dir\wangDao\Height.c.i
 
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\code\cAlgorithm\PAT_datastruct\operationSetOfSeq .c" -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\operationSetOfSeq_.c.s
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/lengthOfLinkedList_.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/lengthOfLinkedList_.c.obj: ../PAT_datastruct/lengthOfLinkedList\ .c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/cAlgorithm.dir/PAT_datastruct/lengthOfLinkedList_.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\lengthOfLinkedList_.c.obj -c "D:\code\cAlgorithm\PAT_datastruct\lengthOfLinkedList .c"
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/lengthOfLinkedList_.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/PAT_datastruct/lengthOfLinkedList_.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\code\cAlgorithm\PAT_datastruct\lengthOfLinkedList .c" > CMakeFiles\cAlgorithm.dir\PAT_datastruct\lengthOfLinkedList_.c.i
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/lengthOfLinkedList_.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/PAT_datastruct/lengthOfLinkedList_.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\code\cAlgorithm\PAT_datastruct\lengthOfLinkedList .c" -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\lengthOfLinkedList_.c.s
-
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/removeElements.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/removeElements.c.obj: ../leetcode_datastruct/removeElements.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/cAlgorithm.dir/leetcode_datastruct/removeElements.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\leetcode_datastruct\removeElements.c.obj -c D:\code\cAlgorithm\leetcode_datastruct\removeElements.c
-
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/removeElements.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/leetcode_datastruct/removeElements.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\leetcode_datastruct\removeElements.c > CMakeFiles\cAlgorithm.dir\leetcode_datastruct\removeElements.c.i
-
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/removeElements.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/leetcode_datastruct/removeElements.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\leetcode_datastruct\removeElements.c -o CMakeFiles\cAlgorithm.dir\leetcode_datastruct\removeElements.c.s
-
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.obj: ../leetcode_datastruct/deleteDuplicates.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\leetcode_datastruct\deleteDuplicates.c.obj -c D:\code\cAlgorithm\leetcode_datastruct\deleteDuplicates.c
-
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\leetcode_datastruct\deleteDuplicates.c > CMakeFiles\cAlgorithm.dir\leetcode_datastruct\deleteDuplicates.c.i
-
-CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\leetcode_datastruct\deleteDuplicates.c -o CMakeFiles\cAlgorithm.dir\leetcode_datastruct\deleteDuplicates.c.s
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.obj: ../PAT_datastruct/operationSetOfLink.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\operationSetOfLink.c.obj -c D:\code\cAlgorithm\PAT_datastruct\operationSetOfLink.c
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\PAT_datastruct\operationSetOfLink.c > CMakeFiles\cAlgorithm.dir\PAT_datastruct\operationSetOfLink.c.i
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\PAT_datastruct\operationSetOfLink.c -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\operationSetOfLink.c.s
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.obj: ../PAT_datastruct/operationSetOfLinkWithHead.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\operationSetOfLinkWithHead.c.obj -c D:\code\cAlgorithm\PAT_datastruct\operationSetOfLinkWithHead.c
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\PAT_datastruct\operationSetOfLinkWithHead.c > CMakeFiles\cAlgorithm.dir\PAT_datastruct\operationSetOfLinkWithHead.c.i
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\PAT_datastruct\operationSetOfLinkWithHead.c -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\operationSetOfLinkWithHead.c.s
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/implementTwoStacks.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/implementTwoStacks.c.obj: ../PAT_datastruct/implementTwoStacks.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/cAlgorithm.dir/PAT_datastruct/implementTwoStacks.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\implementTwoStacks.c.obj -c D:\code\cAlgorithm\PAT_datastruct\implementTwoStacks.c
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/implementTwoStacks.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/PAT_datastruct/implementTwoStacks.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\PAT_datastruct\implementTwoStacks.c > CMakeFiles\cAlgorithm.dir\PAT_datastruct\implementTwoStacks.c.i
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/implementTwoStacks.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/PAT_datastruct/implementTwoStacks.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\PAT_datastruct\implementTwoStacks.c -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\implementTwoStacks.c.s
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/heightOfBinaryTree.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/heightOfBinaryTree.c.obj: ../PAT_datastruct/heightOfBinaryTree.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/cAlgorithm.dir/PAT_datastruct/heightOfBinaryTree.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\heightOfBinaryTree.c.obj -c D:\code\cAlgorithm\PAT_datastruct\heightOfBinaryTree.c
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/heightOfBinaryTree.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/PAT_datastruct/heightOfBinaryTree.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\PAT_datastruct\heightOfBinaryTree.c > CMakeFiles\cAlgorithm.dir\PAT_datastruct\heightOfBinaryTree.c.i
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/heightOfBinaryTree.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/PAT_datastruct/heightOfBinaryTree.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\PAT_datastruct\heightOfBinaryTree.c -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\heightOfBinaryTree.c.s
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/binarySearch.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/binarySearch.c.obj: ../PAT_datastruct/binarySearch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/cAlgorithm.dir/PAT_datastruct/binarySearch.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\binarySearch.c.obj -c D:\code\cAlgorithm\PAT_datastruct\binarySearch.c
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/binarySearch.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/PAT_datastruct/binarySearch.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\PAT_datastruct\binarySearch.c > CMakeFiles\cAlgorithm.dir\PAT_datastruct\binarySearch.c.i
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/binarySearch.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/PAT_datastruct/binarySearch.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\PAT_datastruct\binarySearch.c -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\binarySearch.c.s
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.obj: ../PAT_datastruct/traversalBinaryTree.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\traversalBinaryTree.c.obj -c D:\code\cAlgorithm\PAT_datastruct\traversalBinaryTree.c
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\PAT_datastruct\traversalBinaryTree.c > CMakeFiles\cAlgorithm.dir\PAT_datastruct\traversalBinaryTree.c.i
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\PAT_datastruct\traversalBinaryTree.c -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\traversalBinaryTree.c.s
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.obj: ../PAT_datastruct/preorderPrintLeaves.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\preorderPrintLeaves.c.obj -c D:\code\cAlgorithm\PAT_datastruct\preorderPrintLeaves.c
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\PAT_datastruct\preorderPrintLeaves.c > CMakeFiles\cAlgorithm.dir\PAT_datastruct\preorderPrintLeaves.c.i
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\PAT_datastruct\preorderPrintLeaves.c -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\preorderPrintLeaves.c.s
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.obj: ../PAT_datastruct/operationsSetBinarySearchTree.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\operationsSetBinarySearchTree.c.obj -c D:\code\cAlgorithm\PAT_datastruct\operationsSetBinarySearchTree.c
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\PAT_datastruct\operationsSetBinarySearchTree.c > CMakeFiles\cAlgorithm.dir\PAT_datastruct\operationsSetBinarySearchTree.c.i
-
-CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\PAT_datastruct\operationsSetBinarySearchTree.c -o CMakeFiles\cAlgorithm.dir\PAT_datastruct\operationsSetBinarySearchTree.c.s
+CMakeFiles/cAlgorithm.dir/wangDao/Height.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/wangDao/Height.c.s"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\wangDao\Height.c -o CMakeFiles\cAlgorithm.dir\wangDao\Height.c.s
 
 # Object files for target cAlgorithm
 cAlgorithm_OBJECTS = \
 "CMakeFiles/cAlgorithm.dir/main.c.obj" \
-"CMakeFiles/cAlgorithm.dir/leetcode_datastruct/containsDuplicate.c.obj" \
-"CMakeFiles/cAlgorithm.dir/leetcode_datastruct/maxSubArray.c.obj" \
-"CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.obj" \
-"CMakeFiles/cAlgorithm.dir/PAT_datastruct/lengthOfLinkedList_.c.obj" \
-"CMakeFiles/cAlgorithm.dir/leetcode_datastruct/removeElements.c.obj" \
-"CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.obj" \
-"CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.obj" \
-"CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.obj" \
-"CMakeFiles/cAlgorithm.dir/PAT_datastruct/implementTwoStacks.c.obj" \
-"CMakeFiles/cAlgorithm.dir/PAT_datastruct/heightOfBinaryTree.c.obj" \
-"CMakeFiles/cAlgorithm.dir/PAT_datastruct/binarySearch.c.obj" \
-"CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.obj" \
-"CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.obj" \
-"CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.obj"
+"CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.obj" \
+"CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.obj" \
+"CMakeFiles/cAlgorithm.dir/wangDao/Height.c.obj"
 
 # External object files for target cAlgorithm
 cAlgorithm_EXTERNAL_OBJECTS =
 
 cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/main.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/leetcode_datastruct/containsDuplicate.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/leetcode_datastruct/maxSubArray.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfSeq_.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/PAT_datastruct/lengthOfLinkedList_.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/leetcode_datastruct/removeElements.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/leetcode_datastruct/deleteDuplicates.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLink.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationSetOfLinkWithHead.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/PAT_datastruct/implementTwoStacks.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/PAT_datastruct/heightOfBinaryTree.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/PAT_datastruct/binarySearch.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/PAT_datastruct/traversalBinaryTree.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/PAT_datastruct/preorderPrintLeaves.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/PAT_datastruct/operationsSetBinarySearchTree.c.obj
+cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.obj
+cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.obj
+cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/wangDao/Height.c.obj
 cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/build.make
 cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/linklibs.rsp
 cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/objects1.rsp
 cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking C executable cAlgorithm.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable cAlgorithm.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\cAlgorithm.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
