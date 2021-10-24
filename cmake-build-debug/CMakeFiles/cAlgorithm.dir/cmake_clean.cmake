@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cAlgorithm.dir/main.c.obj"
-  "CMakeFiles/cAlgorithm.dir/wangDao/Height.c.obj"
-  "CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.obj"
-  "CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.obj"
+  "CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.obj"
+  "CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.obj"
+  "CMakeFiles/cAlgorithm.dir/wangDao/change.c.obj"
   "cAlgorithm.exe"
   "cAlgorithm.exe.manifest"
   "cAlgorithm.pdb"

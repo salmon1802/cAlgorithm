@@ -152,77 +152,77 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/main.c.s
 .PHONY : main.c.s
 
-wangDao/Height.obj: wangDao/Height.c.obj
-.PHONY : wangDao/Height.obj
+wangDao/MergeSort.obj: wangDao/MergeSort.c.obj
+.PHONY : wangDao/MergeSort.obj
 
 # target to build an object file
-wangDao/Height.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/Height.c.obj
-.PHONY : wangDao/Height.c.obj
+wangDao/MergeSort.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.obj
+.PHONY : wangDao/MergeSort.c.obj
 
-wangDao/Height.i: wangDao/Height.c.i
-.PHONY : wangDao/Height.i
+wangDao/MergeSort.i: wangDao/MergeSort.c.i
+.PHONY : wangDao/MergeSort.i
 
 # target to preprocess a source file
-wangDao/Height.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/Height.c.i
-.PHONY : wangDao/Height.c.i
+wangDao/MergeSort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.i
+.PHONY : wangDao/MergeSort.c.i
 
-wangDao/Height.s: wangDao/Height.c.s
-.PHONY : wangDao/Height.s
+wangDao/MergeSort.s: wangDao/MergeSort.c.s
+.PHONY : wangDao/MergeSort.s
 
 # target to generate assembly for a file
-wangDao/Height.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/Height.c.s
-.PHONY : wangDao/Height.c.s
+wangDao/MergeSort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.s
+.PHONY : wangDao/MergeSort.c.s
 
-wangDao/leaves.obj: wangDao/leaves.c.obj
-.PHONY : wangDao/leaves.obj
+wangDao/binInsertionSort.obj: wangDao/binInsertionSort.c.obj
+.PHONY : wangDao/binInsertionSort.obj
 
 # target to build an object file
-wangDao/leaves.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.obj
-.PHONY : wangDao/leaves.c.obj
+wangDao/binInsertionSort.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.obj
+.PHONY : wangDao/binInsertionSort.c.obj
 
-wangDao/leaves.i: wangDao/leaves.c.i
-.PHONY : wangDao/leaves.i
+wangDao/binInsertionSort.i: wangDao/binInsertionSort.c.i
+.PHONY : wangDao/binInsertionSort.i
 
 # target to preprocess a source file
-wangDao/leaves.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.i
-.PHONY : wangDao/leaves.c.i
+wangDao/binInsertionSort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.i
+.PHONY : wangDao/binInsertionSort.c.i
 
-wangDao/leaves.s: wangDao/leaves.c.s
-.PHONY : wangDao/leaves.s
+wangDao/binInsertionSort.s: wangDao/binInsertionSort.c.s
+.PHONY : wangDao/binInsertionSort.s
 
 # target to generate assembly for a file
-wangDao/leaves.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.s
-.PHONY : wangDao/leaves.c.s
+wangDao/binInsertionSort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.s
+.PHONY : wangDao/binInsertionSort.c.s
 
-wangDao/shellSort.obj: wangDao/shellSort.c.obj
-.PHONY : wangDao/shellSort.obj
+wangDao/change.obj: wangDao/change.c.obj
+.PHONY : wangDao/change.obj
 
 # target to build an object file
-wangDao/shellSort.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.obj
-.PHONY : wangDao/shellSort.c.obj
+wangDao/change.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/change.c.obj
+.PHONY : wangDao/change.c.obj
 
-wangDao/shellSort.i: wangDao/shellSort.c.i
-.PHONY : wangDao/shellSort.i
+wangDao/change.i: wangDao/change.c.i
+.PHONY : wangDao/change.i
 
 # target to preprocess a source file
-wangDao/shellSort.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.i
-.PHONY : wangDao/shellSort.c.i
+wangDao/change.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/change.c.i
+.PHONY : wangDao/change.c.i
 
-wangDao/shellSort.s: wangDao/shellSort.c.s
-.PHONY : wangDao/shellSort.s
+wangDao/change.s: wangDao/change.c.s
+.PHONY : wangDao/change.s
 
 # target to generate assembly for a file
-wangDao/shellSort.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.s
-.PHONY : wangDao/shellSort.c.s
+wangDao/change.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cAlgorithm.dir\build.make CMakeFiles/cAlgorithm.dir/wangDao/change.c.s
+.PHONY : wangDao/change.c.s
 
 # Help Target
 help:
@@ -236,15 +236,15 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... wangDao/Height.obj
-	@echo ... wangDao/Height.i
-	@echo ... wangDao/Height.s
-	@echo ... wangDao/leaves.obj
-	@echo ... wangDao/leaves.i
-	@echo ... wangDao/leaves.s
-	@echo ... wangDao/shellSort.obj
-	@echo ... wangDao/shellSort.i
-	@echo ... wangDao/shellSort.s
+	@echo ... wangDao/MergeSort.obj
+	@echo ... wangDao/MergeSort.i
+	@echo ... wangDao/MergeSort.s
+	@echo ... wangDao/binInsertionSort.obj
+	@echo ... wangDao/binInsertionSort.i
+	@echo ... wangDao/binInsertionSort.s
+	@echo ... wangDao/change.obj
+	@echo ... wangDao/change.i
+	@echo ... wangDao/change.s
 .PHONY : help
 
 

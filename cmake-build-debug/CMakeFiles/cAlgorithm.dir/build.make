@@ -78,59 +78,59 @@ CMakeFiles/cAlgorithm.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/main.c.s"
 	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\main.c -o CMakeFiles\cAlgorithm.dir\main.c.s
 
-CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.obj: ../wangDao/shellSort.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\wangDao\shellSort.c.obj -c D:\code\cAlgorithm\wangDao\shellSort.c
+CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
+CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.obj: ../wangDao/binInsertionSort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.obj"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\wangDao\binInsertionSort.c.obj -c D:\code\cAlgorithm\wangDao\binInsertionSort.c
 
-CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\wangDao\shellSort.c > CMakeFiles\cAlgorithm.dir\wangDao\shellSort.c.i
+CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.i"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\wangDao\binInsertionSort.c > CMakeFiles\cAlgorithm.dir\wangDao\binInsertionSort.c.i
 
-CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\wangDao\shellSort.c -o CMakeFiles\cAlgorithm.dir\wangDao\shellSort.c.s
+CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.s"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\wangDao\binInsertionSort.c -o CMakeFiles\cAlgorithm.dir\wangDao\binInsertionSort.c.s
 
-CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.obj: ../wangDao/leaves.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\wangDao\leaves.c.obj -c D:\code\cAlgorithm\wangDao\leaves.c
+CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
+CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.obj: ../wangDao/MergeSort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.obj"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\wangDao\MergeSort.c.obj -c D:\code\cAlgorithm\wangDao\MergeSort.c
 
-CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\wangDao\leaves.c > CMakeFiles\cAlgorithm.dir\wangDao\leaves.c.i
+CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.i"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\wangDao\MergeSort.c > CMakeFiles\cAlgorithm.dir\wangDao\MergeSort.c.i
 
-CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\wangDao\leaves.c -o CMakeFiles\cAlgorithm.dir\wangDao\leaves.c.s
+CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.s"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\wangDao\MergeSort.c -o CMakeFiles\cAlgorithm.dir\wangDao\MergeSort.c.s
 
-CMakeFiles/cAlgorithm.dir/wangDao/Height.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
-CMakeFiles/cAlgorithm.dir/wangDao/Height.c.obj: ../wangDao/Height.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/cAlgorithm.dir/wangDao/Height.c.obj"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\wangDao\Height.c.obj -c D:\code\cAlgorithm\wangDao\Height.c
+CMakeFiles/cAlgorithm.dir/wangDao/change.c.obj: CMakeFiles/cAlgorithm.dir/flags.make
+CMakeFiles/cAlgorithm.dir/wangDao/change.c.obj: ../wangDao/change.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\cAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/cAlgorithm.dir/wangDao/change.c.obj"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\cAlgorithm.dir\wangDao\change.c.obj -c D:\code\cAlgorithm\wangDao\change.c
 
-CMakeFiles/cAlgorithm.dir/wangDao/Height.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/wangDao/Height.c.i"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\wangDao\Height.c > CMakeFiles\cAlgorithm.dir\wangDao\Height.c.i
+CMakeFiles/cAlgorithm.dir/wangDao/change.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cAlgorithm.dir/wangDao/change.c.i"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\code\cAlgorithm\wangDao\change.c > CMakeFiles\cAlgorithm.dir\wangDao\change.c.i
 
-CMakeFiles/cAlgorithm.dir/wangDao/Height.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/wangDao/Height.c.s"
-	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\wangDao\Height.c -o CMakeFiles\cAlgorithm.dir\wangDao\Height.c.s
+CMakeFiles/cAlgorithm.dir/wangDao/change.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cAlgorithm.dir/wangDao/change.c.s"
+	D:\code\CLION2~1.2\MinGW\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\code\cAlgorithm\wangDao\change.c -o CMakeFiles\cAlgorithm.dir\wangDao\change.c.s
 
 # Object files for target cAlgorithm
 cAlgorithm_OBJECTS = \
 "CMakeFiles/cAlgorithm.dir/main.c.obj" \
-"CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.obj" \
-"CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.obj" \
-"CMakeFiles/cAlgorithm.dir/wangDao/Height.c.obj"
+"CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.obj" \
+"CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.obj" \
+"CMakeFiles/cAlgorithm.dir/wangDao/change.c.obj"
 
 # External object files for target cAlgorithm
 cAlgorithm_EXTERNAL_OBJECTS =
 
 cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/main.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/wangDao/shellSort.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/wangDao/leaves.c.obj
-cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/wangDao/Height.c.obj
+cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.obj
+cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/wangDao/MergeSort.c.obj
+cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/wangDao/change.c.obj
 cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/build.make
 cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/linklibs.rsp
 cAlgorithm.exe: CMakeFiles/cAlgorithm.dir/objects1.rsp

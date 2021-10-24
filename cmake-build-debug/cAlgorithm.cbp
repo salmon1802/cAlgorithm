@@ -74,16 +74,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/code/cAlgorithm/leetcode_datastruct/isSymmetric.cpp">
+			<Option target="cAlgorithm"/>
+		</Unit>
 		<Unit filename="D:/code/cAlgorithm/main.c">
 			<Option target="cAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/code/cAlgorithm/wangDao/Height.c">
+		<Unit filename="D:/code/cAlgorithm/wangDao/MergeSort.c">
 			<Option target="cAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/code/cAlgorithm/wangDao/leaves.c">
+		<Unit filename="D:/code/cAlgorithm/wangDao/binInsertionSort.c">
 			<Option target="cAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/code/cAlgorithm/wangDao/shellSort.c">
+		<Unit filename="D:/code/cAlgorithm/wangDao/change.c">
 			<Option target="cAlgorithm"/>
 		</Unit>
 		<Unit filename="D:/code/cAlgorithm/CMakeLists.txt">
