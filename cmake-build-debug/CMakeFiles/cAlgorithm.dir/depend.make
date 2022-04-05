@@ -3,5 +3,5 @@
 
 CMakeFiles/cAlgorithm.dir/main.c.obj: \
  ../main.c
-CMakeFiles/cAlgorithm.dir/wangDao/binInsertionSort.c.obj: \
- ../wangDao/binInsertionSort.c
+CMakeFiles/cAlgorithm.dir/wangDao/main.c.obj: \
+ ../wangDao/main.c

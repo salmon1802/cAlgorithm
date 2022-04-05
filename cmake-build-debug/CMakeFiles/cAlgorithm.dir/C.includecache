@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/code/cAlgorithm/wangDao/binInsertionSort.c
+D:/code/cAlgorithm/wangDao/main.c
 stdio.h
--
+D:/code/cAlgorithm/wangDao/stdio.h
+string.h
+D:/code/cAlgorithm/wangDao/string.h
 
